@@ -41,9 +41,4 @@ If you want to build a modern system, upgrade an existing platform, or develop a
 
 ---
 
-### 📌 Company Name
-**KODO — Key of Digital Operations**
-
----
-
 © KODO. All rights reserved.
